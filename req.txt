@@ -1,0 +1,5 @@
+aiohttp
+requests
+dateparser
+websockets
+PyQt5
